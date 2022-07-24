@@ -114,7 +114,7 @@ erDiagram
 
 ## Project Instructions
 **Requirements:**<br>
-Imagine, we have the infrastructure connections and permissions to use the <i>sparkifydb</i> database. This is the case in the projects workspace delivered by Udacity.
+Imagine, we have the needed infrastructure available. In other words, all required Python libraries beside the standard framework as well as the connections and permissions to use the <i>sparkifydb</i> database. This is the case in the projects workspace delivered by Udacity.
 
 So, our project steps are:
 - First, clone the repository and navigate to the downloaded folder.<br>
