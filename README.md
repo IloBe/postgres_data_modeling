@@ -126,4 +126,4 @@ During this **ETL pipeline** the <i>song_data</i> directory is examined to creat
 <br>
 
 ## License
-This project coding is released under the [MIT](https://github.com/IloBe/postgres_data_modleing/blob/main/LICENSE) license.
+This project coding is released under the [MIT](https://github.com/IloBe/postgres_data_modeling/blob/main/LICENSE) license.
