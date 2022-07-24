@@ -31,7 +31,7 @@ For example, here are filepaths to two files in this dataset:<br>
 - log_data/2018/11/2018-11-13-events.json
 
 And below are examples of what the data in a log file, 2018-11-12-events.json, look like.<br>
-![examples][image1] 
+![Event examples](https://github.com/IloBe/postgres_data_modeling/blob/main/assets/logFileEvent_examples.png)
 
 <br>
 
